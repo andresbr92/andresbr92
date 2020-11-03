@@ -28,28 +28,24 @@
     <li>Many more on and out of Github...</li>
   </ul>
 </details>
-<!-- <summary>Backend 🤖</summary>
+ <summary>Backend 🤖</summary>
   <ul>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li>Many more on and out of Github...</li>
+    <li> <p>Serverless SPA using Firebase () => </p> </li><a href="https://github.com/andresbr92/firebase-nextjs">Here</a>
+    <li><p>Node.js, Express, Socket.io, Rooms management () =></p></li></li><a href="https://github.com/andresbr92/socket-chat">Here</a>
+    <li><p>Many more on and out of Github... () => </p></li></li><a href="https://github.com/andresbr92?tab=repositories">Here</a>
   </ul>
 </details>
 <summary>Frontend 🤖</summary>
   <ul>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li>Many more on and out of Github...</li>
+    <li><p>React, React Redux, Hooks, styled components, axios... () => </p></li></li><a href="https://github.com/andresbr92/ReduxProject">Here</a>
+    <li> <p>Next.js, Firebase, Styled Components, Serverless, Customs Hooks, File management with Firebase Tools and much more... () =>  </p> </li><a href="https://github.com/andresbr92/firebase-nextjs">Code_Carry</a>
+    <li><p>Many more on and out of Github... () => </p></li></li><a href="https://github.com/andresbr92?tab=repositories">Here</a>
   </ul>
 </details>
 
 <details>
 
-<details> -->
+<details>
 <summary>Opensource Contributor 📝</summary>
   <ul>
     <li>Speech on the influence of 3D pringing, Arduino & Raspberry on my academic training <a href="https://www.youtube.com/watch?v=8aIiCdSkSTA">Here</a>.</li>
@@ -57,41 +53,7 @@
   </ul>
 </details>
 
-<!-- <h3>The Questions You May Have 😕</h3>
-<details>
-  <summary>Who are you? 👨</summary>
-  <pre>
-  A passionate individual who always thrive to work on end to end products which develop sustainable and scalable social and
-  technical systems to create impact.<br>
-  My name describes my qualities,
-  A: Active Learner
-  S: Sociable
-  H: Hard working
-  U: Ultra-precise
-  T: Trustworthy
-  O: Open minded to create new things
-  S: Supportive
-  H: Humble
-  </pre>
-</details> -->
-<!-- <details>
-  <summary>How can I believe that you are good at what you do? 🤷‍♂️</summary>
-  <ul>
-    <li>In Sept. 2019, I was invited to Google Machine Learning Summit at Google Hyderabad for my exceptional interest in AI.</li>
-    <li>Also, I was selected as one of 120 Google Explore ML Facilitators from India to spread awareness about AI in students.
-In May 2019, I was selected as Microsoft Student Partner to teach students about Cloud Infrastructure and to demonstrate deployments of applications and ML models on Azure.</li>
-    <li>In July 2019, I became Mozilla Campus Captain. With this, I started an open source community in the college to build open source projects. Under this program, I have also organised a hackathon in campus.</li>
-    <li>In Sept. 2018, I designed application architecture for a startup named Muffito. I was also managing the complete application development process.</li>
-  </ul>
-</details>
-<details>
-<summary>What do you do other than building AI systems? 💁‍♂️</summary>
-  <ul>
-    <li>I write blogs about powerful lessons in personal changes. You can visit my blog site at <a href="https://ashutoshhathidara.wordpress.com">ashutoshhathidara.wordpress.com</a>.</li>
-    <li>I am a public speaker and a member of AMP (Association of Muslim Profession). We work for educating students to deal with very basic but important problems which eventually build their character.</li>
-    <li>I design, build and deploy beautiful websites. Whenever I am free, I am used to create designs in Figma.</li>
-  </ul>
-</details> -->
+
 
 <h3>What if you like my work? 🤩</h3>
 <p><a href="https://andresbr92.github.io/#/contact">Contact Me! Let's talk! </a> </p>

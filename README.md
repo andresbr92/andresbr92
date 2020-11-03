@@ -28,6 +28,7 @@
     <li>Many more on and out of Github...</li>
   </ul>
 </details>
+<details>
  <summary>Backend 🤖</summary>
   <ul>
     <li> <p>Serverless SPA using Firebase () => </p> </li><a href="https://github.com/andresbr92/firebase-nextjs">Here</a>
@@ -35,6 +36,7 @@
     <li><p>Many more on and out of Github... () => </p></li></li><a href="https://github.com/andresbr92?tab=repositories">Here</a>
   </ul>
 </details>
+<details>
 <summary>Frontend 🤖</summary>
   <ul>
     <li><p>React, React Redux, Hooks, styled components, axios... () => </p></li></li><a href="https://github.com/andresbr92/ReduxProject">Here</a>
@@ -42,8 +44,6 @@
     <li><p>Many more on and out of Github... () => </p></li></li><a href="https://github.com/andresbr92?tab=repositories">Here</a>
   </ul>
 </details>
-
-<details>
 
 <details>
 <summary>Opensource Contributor 📝</summary>
